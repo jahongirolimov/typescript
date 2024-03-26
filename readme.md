@@ -72,3 +72,13 @@ getToken()</code>
 }</code>
 
 <br><br><br>
+
+ ## Interface
+
+-  <quote> Interface obyekt turlarini belgilash uchun ishlatiladi bu obyektning key valuesini belgilashda ishlatiladi</quote>
+```
+interface Person {
+    name: string;
+    age: number;
+}
+```
